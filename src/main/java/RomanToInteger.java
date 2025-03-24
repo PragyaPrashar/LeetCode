@@ -11,15 +11,15 @@ public class RomanToInteger {
       map.put('C',100);
       map.put('D',500);
       map.put('M',1000);
-      int res=0;
+      int result_var=0;
       for(int i=0;i<s.length();i++){
         if(i+1<s.length()&& map.get(s.charAt(i))<map.get(s.charAt(i+1))){
-          res-=map.get(s.charAt(i));
+          result_var-=map.get(s.charAt(i));
         }else{
-          res+=map.get(s.charAt(i));
+          result_var+=map.get(s.charAt(i));
         }
       }
-      return res;
+      return result_var;
     }
 
   public static void main(String[] args) {
