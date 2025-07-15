@@ -2,7 +2,7 @@ import java.util.*;
 public class TwoSum {
 
   /*
-  This is master branch. I am trying to simulate conflict
+  This is master branch. I am trying to simulate conflict. i will resolve iy
    */
   static public int[] twoSum(int[] nums, int target) {
     Map<Integer, Integer> map=new HashMap<>();
@@ -36,4 +36,3 @@ This is prag branch, iam testing squash with multiple commits
 
   }
 }
-
