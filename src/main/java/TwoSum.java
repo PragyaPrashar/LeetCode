@@ -2,7 +2,7 @@ import java.util.*;
 public class TwoSum {
 
   /*
-  This is master branch
+  This is master branch. I am trying to simulate conflict
    */
   static public int[] twoSum(int[] nums, int target) {
     Map<Integer, Integer> map=new HashMap<>();
