@@ -1,6 +1,6 @@
 import java.util.*;
 /*
-This is my fourth try prag branch, iam testing squash with multiple commits, I am testing ssquash after rasing PR333
+This is my fourth try prag branch, iam testing squash with multiple commits, I am testing ssquash after rasing PR333. I will be able to resolve merge conflicts
  */
 
 public class TwoSum {
@@ -19,7 +19,7 @@ public class TwoSum {
     return result;
   }
 /*
-This is my fourth try prag branch, iam testing squash with multiple commits
+This is my fourth try prag branch, iam testing squash with multiple commits.
  */
   public static void main(String[] args) {
     int [] nums={2,7,11,15};
