@@ -1,9 +1,9 @@
 import java.util.*;
-public class TwoSum {
+/*
+This is prag branch, iam testing squash with multiple commits
+ */
 
-  /*
-  This is master branch
-   */
+public class TwoSum {
   static public int[] twoSum(int[] nums, int target) {
     Map<Integer, Integer> map=new HashMap<>();
     int [] result=new int[2];
@@ -18,9 +18,9 @@ public class TwoSum {
     }
     return result;
   }
-  /*
-  This is master branch
-   */
+/*
+This is prag branch, iam testing squash with multiple commits
+ */
   public static void main(String[] args) {
     int [] nums={2,7,11,15};
     int target=9;
@@ -36,4 +36,3 @@ public class TwoSum {
 
   }
 }
-
