@@ -22,8 +22,12 @@ public class TwoSum {
     return result;
   }
 /*
-This is my fourth try prag branch, iam testing squash with multiple commits.
+This is prag branch, iam testing squash with multiple commits
  */
+
+  /*
+  This is master branch
+   */
   public static void main(String[] args) {
     int [] nums={2,7,11,15};
     int target=9;
@@ -39,3 +43,4 @@ This is my fourth try prag branch, iam testing squash with multiple commits.
 
   }
 }
+
