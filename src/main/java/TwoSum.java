@@ -2,7 +2,7 @@ import java.util.*;
 public class TwoSum {
 
   /*
-  Added second comments for testing purpose
+  This is master branch
    */
   static public int[] twoSum(int[] nums, int target) {
     Map<Integer, Integer> map=new HashMap<>();
@@ -19,7 +19,7 @@ public class TwoSum {
     return result;
   }
   /*
-  This is just for testing purpose - Pragya
+  This is master branch
    */
   public static void main(String[] args) {
     int [] nums={2,7,11,15};
