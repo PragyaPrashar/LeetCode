@@ -4,6 +4,10 @@ The class is used to calculate TwoSum
  */
 public class TwoSum {
 
+  /*
+  Function to calculate two sum
+   */
+
   static public int[] twoSum(int[] nums, int target) {
     Map<Integer, Integer> map=new HashMap<>();
     int [] result=new int[2];
