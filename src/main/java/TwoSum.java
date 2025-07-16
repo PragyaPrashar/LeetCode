@@ -1,3 +1,6 @@
+/*
+This is import statement
+ */
 import java.util.*;
 /*
 The class is used to calculate TwoSum
