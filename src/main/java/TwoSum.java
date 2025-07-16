@@ -1,5 +1,7 @@
 import java.util.*;
-
+/*
+The class is used to calculate TwoSum
+ */
 public class TwoSum {
 
   static public int[] twoSum(int[] nums, int target) {
