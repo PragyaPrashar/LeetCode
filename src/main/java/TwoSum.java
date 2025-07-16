@@ -1,12 +1,7 @@
 import java.util.*;
-/*
-This is my fourth try prag branch, iam testing squash with multiple commits, I am testing ssquash after rasing PR333. I will be able to resolve merge conflicts
- */
 
 public class TwoSum {
-  /*
-  this is prag branch
-   */
+
   static public int[] twoSum(int[] nums, int target) {
     Map<Integer, Integer> map=new HashMap<>();
     int [] result=new int[2];
@@ -21,13 +16,7 @@ public class TwoSum {
     }
     return result;
   }
-/*
-This is prag branch, iam testing squash with multiple commits
- */
 
-  /*
-  This is master branch
-   */
   public static void main(String[] args) {
     int [] nums={2,7,11,15};
     int target=9;
